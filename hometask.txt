@@ -1,0 +1,4 @@
+Отличие состоит в том, что ветка demo создана слиянием веток: hat, boots, buttons.
+Ветка master - слиянием веток hat, boots_buttons
+
+fix readme, dots, README added, boots, heat added, init
